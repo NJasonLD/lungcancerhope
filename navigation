@@ -1,0 +1,93 @@
+<ul class="animenu_nav">
+
+                    <li class="l1"><a href="javascript:;">
+                        <h4>認識肺癌</h4>
+                    </a>
+                        <ul class="animenu_nav_child">
+                            <li><a href="post.aspx?c=1&amp;s=1">
+                                <h4>肺癌症狀</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=1&amp;s=2">
+                                <h4>就醫資訊</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=1&amp;s=3">
+                                <h4>預防肺癌</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=1&amp;s=4">
+                                <h4>肺癌分期</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=1&amp;s=5">
+                                <h4>肺癌診斷</h4>
+                            </a></li>
+                        </ul>
+                    </li>
+
+                    <li class="l2"><a href="javascript:;">
+                        <h4>肺癌治療選擇</h4>
+                    </a>
+                        <ul class="animenu_nav_child">
+                            <li><a href="post.aspx?c=2&amp;s=1">
+                                <h4>化學治療</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=2&amp;s=2">
+                                <h4>手術治療</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=2&amp;s=3">
+                                <h4>放射線治療</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=2&amp;s=4">
+                                <h4>標靶治療</h4>
+                            </a></li>
+                        </ul>
+                    </li>
+
+                    <li class="l3"><a href="javascript:;">
+                        <h4>肺癌副作用處理</h4>
+                    </a>
+                        <ul class="animenu_nav_child">
+                            <li><a href="post.aspx?c=3&amp;s=1">
+                                <h4>化學治療</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=3&amp;s=2">
+                                <h4>手術治療</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=3&amp;s=3">
+                                <h4>放射線治療</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=3&amp;s=4">
+                                <h4>標靶治療</h4>
+                            </a></li>
+                        </ul>
+                    </li>
+
+                    <li class="logo"><a title="肺癌衛教網－肺癌症狀、肺腺癌治療與化療藥物" href="http://www.lungcancerhope.com.tw/">
+                        
+                    </a></li>
+
+                    <li class="l4"><a href="javascript:;">
+                        <h4>肺癌飲食照護</h4>
+                    </a>
+                        <ul class="animenu_nav_child">
+                            <li><a href="post.aspx?c=4&amp;s=1">
+                                <h4>日常照護</h4>
+                            </a></li>
+                            <li><a href="post.aspx?c=4&amp;s=2">
+                                <h4>營養照護</h4>
+                            </a></li>
+                        </ul>
+                    </li>
+
+                    <li class="l5"><a href="doctor.aspx">
+                        <h4>醫師的話</h4>
+                    </a>
+                    </li>
+
+                    
+                    <li class="search">
+                        <div id="search1">
+                            <input id="btnSearch" class="r" type="button" name="btn" title="搜尋" onclick="gosearch();" value="">
+                            <input id="txtKW" class="s" name="q" type="text" value="" onkeypress="return gosearche(event)">
+                        </div>
+                    </li>
+                    
+                </ul>
